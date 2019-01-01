@@ -1,0 +1,51 @@
+.btn-ir{
+  width: 5%;
+}
+
+.table-wrapper-2 {
+    display: block;
+    max-height: 650px;
+    overflow-y: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+.table-wrapper-3 {
+    display: block;
+    max-height: 650px;
+    overflow-y: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+table thead{
+  color: white;
+}
+
+.input-group.md-form.form-sm.form-1 input{
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
+
+
+body {
+  background: #d5d4d4; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right top, #d5d4d4, #dfdfdf, #eae9ea, #f4f4f4, #ffffff);
+  background: -moz-linear-gradient(to right top, #d5d4d4, #dfdfdf, #eae9ea, #f4f4f4, #ffffff);
+  background: -o-linear-gradient(to right top, #d5d4d4, #dfdfdf, #eae9ea, #f4f4f4, #ffffff);
+  background: linear-gradient(to right top, #d5d4d4, #dfdfdf, #eae9ea, #f4f4f4, #ffffff);
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-attachment: fixed;
+}
+
+.home{margin-top:45px;}
+
+.link-right a{float: right;}
+.table-link th{text-align: center;}
+.table-link td{text-align: center;}
+.table-link th{width: 40px;}
+
+a:hover{text-decoration: none;}
+
+.itens-nav a{font-size: 10.5px;}
